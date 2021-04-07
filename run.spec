@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['E:\\Information-class-release-control\\run.py'],
-             pathex=['E:\\Information-class-release-control'],
+a = Analysis(['run.py'],
+             pathex=['D:\\UserData\\Desktop\\Information-class-release-control'],
              binaries=[],
              datas=[],
              hiddenimports=[],
